@@ -12,7 +12,34 @@
 
 ### 💻 Tech Stack
 
-<img src="https://skillicons.dev/icons?i=html,js,java,php,bootstrap,codeigniter,drupal,jquery,laravel,nodejs,npm,vue,wordpress,vite,apache,mariadb,mysql,ps,dw,canva,postman,trello&theme=dark&perline=8" alt="Tech Stack"/>
+<table align="center" cellspacing="0" cellpadding="6"><tr>
+<td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="42" alt="HTML5"/></td>
+<td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="42" alt="JavaScript"/></td>
+<td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="42" alt="Java"/></td>
+<td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="42" alt="PHP"/></td>
+<td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="42" alt="Bootstrap"/></td>
+<td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codeigniter/codeigniter-plain.svg" width="42" alt="CodeIgniter"/></td>
+<td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/drupal/drupal-original.svg" width="42" alt="Drupal"/></td>
+<td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" width="42" alt="jQuery"/></td>
+</tr><tr>
+<td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" width="42" alt="Laravel"/></td>
+<td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="42" alt="NodeJS"/></td>
+<td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" width="42" alt="NPM"/></td>
+<td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="42" alt="Vue.js"/></td>
+<td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" width="42" alt="WordPress"/></td>
+<td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitejs/vitejs-original.svg" width="42" alt="Vite"/></td>
+<td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" width="42" alt="Apache"/></td>
+<td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mariadb/mariadb-original.svg" width="42" alt="MariaDB"/></td>
+</tr><tr>
+<td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="42" alt="MySQL"/></td>
+<td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" width="42" alt="Illustrator"/></td>
+<td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dreamweaver/dreamweaver-plain.svg" width="42" alt="Dreamweaver"/></td>
+<td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" width="42" alt="Canva"/></td>
+<td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="42" alt="Postman"/></td>
+<td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" width="42" alt="Trello"/></td>
+<td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="42" alt="Git"/></td>
+<td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="42" alt="GitHub"/></td>
+</tr></table>
 
 ---
 
