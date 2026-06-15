@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="108" height="108" viewBox="0 0 108 108" fill="none">
+  <defs>
+    <linearGradient id="ringGrad" x1="0%" y1="100%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#ff6ec7"/>
+      <stop offset="35%" stop-color="#9b30ff"/>
+      <stop offset="70%" stop-color="#00e5ff"/>
+      <stop offset="100%" stop-color="#9b30ff"/>
+    </linearGradient>
+  </defs>
+  <circle cx="54" cy="54" r="50" stroke="url(#ringGrad)" stroke-width="4" fill="none"/>
+  <circle cx="54" cy="54" r="46" fill="#0d1117"/>
+  <text x="54" y="50" text-anchor="middle" font-family="Segoe UI, sans-serif" font-size="28" font-weight="800" fill="#e6edf3">A+</text>
+  <text x="54" y="68" text-anchor="middle" font-family="Segoe UI, sans-serif" font-size="10" fill="#9ca3af">Rating</text>
+</svg>

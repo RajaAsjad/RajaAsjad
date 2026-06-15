@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="58" viewBox="0 0 480 58" fill="none">
+  <defs>
+    <linearGradient id="nameGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#00e5ff"/>
+      <stop offset="50%" stop-color="#60a5fa"/>
+      <stop offset="100%" stop-color="#9b30ff"/>
+    </linearGradient>
+  </defs>
+  <text x="0" y="46" font-family="Segoe UI, Inter, system-ui, sans-serif" font-size="42" font-weight="800" fill="url(#nameGrad)">Muhammad Asjad</text>
+</svg>
