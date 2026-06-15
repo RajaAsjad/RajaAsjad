@@ -39,8 +39,4 @@
 <a href="mailto:rajaasjad67@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" height="36"/></a>
 <a href="https://webstaginglink.com/asjad-portfolio/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-00E5FF?style=for-the-badge&logo=firefox&logoColor=black" height="36"/></a>
 
-<br/><br/>
-
-<img src="https://visitcount.itsvg.in/api?id=RajaAsjad&icon=5&color=0" alt="Visitors"/>
-
 </div>
